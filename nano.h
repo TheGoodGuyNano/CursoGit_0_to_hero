@@ -1,6 +1,8 @@
 #ifndef NANO_H
 #define NANO_H
 
+#include "stdint.h"
+
 int j;
 float k;
 
