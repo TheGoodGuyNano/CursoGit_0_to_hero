@@ -2,6 +2,7 @@
 #define NANO_H
 
 int j;
+float k;
 
 typedef struct 
 {
