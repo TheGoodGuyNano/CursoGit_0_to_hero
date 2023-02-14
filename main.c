@@ -3,7 +3,8 @@
 
 int main ()
 {
-    printf("Hello Wolrd!");
-    printf("Hello from GitHub");
+    printf("Hello Wolrd!\n");
+    printf("Hello from GitHub\n");
+    printf("%d", fooNano(1, 1));
     return 0;
 }
