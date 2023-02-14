@@ -12,4 +12,6 @@ typedef struct
     int edad;
 }nano_t;
 
+int fooNano (int a, int b);
+
 #endif /*NANO_H*/
